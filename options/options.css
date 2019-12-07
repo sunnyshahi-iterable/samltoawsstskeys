@@ -15,14 +15,14 @@ div {
 }
 
 #divSettings {
-	width: 900px;
+	/* width: 900px; */
 	border-style: solid;
     border-radius: 10px;
 	background-color: #fef6e0;
 }
 
 .setting-part {
-	width: 876px;
+	/* width: 876px; */
 	border-radius: 10px;
 	background-color: #f1c47b;
 	margin-bottom: 14px;
